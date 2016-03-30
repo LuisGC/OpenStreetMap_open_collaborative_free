@@ -2,6 +2,8 @@ OpenStreetMap project and community: open, collaborative and free
 ====
 Source files for my presentation (in Spanish, but I'll translate it) about **OpenStreetMap project and community: open, collaborative and free** by [Luis García Castro](https://github.com/LuisGC)
 
+Presented in OpenExpoDay 2015 (Madrid, España)
+
 View in GitHub-Pages: [OpenStreetMap project and community: open, collaborative and free] (http://luisgc.github.io/OpenStreetMap_open_collaborative_free)
 
 # Content
